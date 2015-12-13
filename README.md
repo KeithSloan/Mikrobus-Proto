@@ -1,6 +1,6 @@
 # Mikrobus-Protoype PCB
 I have a [pi2-shield](http://www.mikroe.com/click/pi2-shield/) for my Raspberry Pi B+
-I decide to develop an alternative prototype board for the MikronElectronika Mikrobus [http://www.mikroe.com/click/proto/]
+and decide to develop an alternative prototype board for the MikronElectronika Mikrobus [http://www.mikroe.com/click/proto/]
 as I am not keen on creating solder bridges or wirewraping.
 ### PCB Software
 Designed with Cadsofts Free version of Eagle [http://www.cadsoftusa.com/download-eagle/freeware/]
