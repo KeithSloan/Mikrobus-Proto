@@ -15,7 +15,7 @@ To obtain the Eagle files run the following command
 #### Library of componenets used
 4. Library:  KS Proto.lbr
 
-### The following Gerber Files were created in RS-274x format with a Excellon formt dril file
+### The following Gerber Files were created in RS-274x format with a Excellon format drill file
 1. Mikrobus-Proto-18.cmp (Copper, component side)
 2. Mikrobus-Proto-18.drd (Drill file)
 3. Mikrobus-Proto-18.dri (Drill Station Info File) 
