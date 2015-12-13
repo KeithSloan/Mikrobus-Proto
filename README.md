@@ -1,4 +1,4 @@
-# Mikrobus-Protoype PCB
+# Mikrobus-Prototype PCB
 I have a [pi2-shield](http://www.mikroe.com/click/pi2-shield/) for my Raspberry Pi B+
 and decide to develop an alternative prototype board for the MikronElectronika Mikrobus [http://www.mikroe.com/click/proto/]
 as I am not keen on creating solder bridges or wirewraping.
