@@ -12,6 +12,7 @@ To obtain the Eagle files run the following command
 1. Schematic: Mikrobus-Proto-18.sch
 2. PCB:       Mikrobus-Proto-18.brd
 3. Project:   Mikrobus-Proto-18.pro
+
 #### Library of componenets used
 4. Library:  KS Proto.lbr
 
