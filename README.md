@@ -17,6 +17,7 @@ To obtain the Eagle files run the following command
 1. Schematic: Mikrobus-Proto-22.sch
 2. PCB:       Mikrobus-Proto-22.brd
 3. Project:   Mikrobus-Proto-22.pro
+
 ### Old Design
 4. Schematic: Mikrobus-Proto-18.sch
 5. PCB:       Mikrobus-Proto-18.brd
