@@ -1,6 +1,6 @@
 # Mikrobus-Prototype PCB
 ### New Design 
-Having looked at using the protype board I have made some changes to hopefully make it more flexible. The new board is the Mikrobus-Proto-22. 
+Having looked at using the protype board I have made some changes to hopefully make it more flexible. The new board is the **Mikrobus-Proto-22**. 
 I have kept the old design files for completeness.
 ### Mikrobus
 I have a [pi2-shield](http://www.mikroe.com/click/pi2-shield/) for my Raspberry Pi B+
