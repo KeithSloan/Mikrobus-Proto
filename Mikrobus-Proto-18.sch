@@ -2501,7 +2501,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <busses>
 </busses>
 <nets>
-<net name="N$13" class="0">
+<net name="AN" class="0">
 <segment>
 <pinref part="JP1" gate="G$1" pin="3"/>
 <wire x1="22.86" y1="33.02" x2="22.86" y2="30.48" width="0.1524" layer="91"/>
@@ -2518,7 +2518,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="22.86" y="33.02"/>
 </segment>
 </net>
-<net name="N$1" class="0">
+<net name="INT" class="0">
 <segment>
 <pinref part="JP16" gate="G$1" pin="1"/>
 <wire x1="99.06" y1="33.02" x2="86.36" y2="33.02" width="0.1524" layer="91"/>
@@ -2535,7 +2535,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="104.14" y="33.02"/>
 </segment>
 </net>
-<net name="N$5" class="0">
+<net name="CS" class="0">
 <segment>
 <pinref part="JP3" gate="G$1" pin="2"/>
 <junction x="20.32" y="17.78"/>
@@ -2553,7 +2553,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="22.86" y="17.78"/>
 </segment>
 </net>
-<net name="N$11" class="0">
+<net name="MISO" class="0">
 <segment>
 <pinref part="JP5" gate="G$1" pin="2"/>
 <junction x="20.32" y="2.54"/>
@@ -2572,7 +2572,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="22.86" y="2.54"/>
 </segment>
 </net>
-<net name="N$15" class="0">
+<net name="MOSI" class="0">
 <segment>
 <pinref part="JP6" gate="G$1" pin="2"/>
 <junction x="38.1" y="2.54"/>
@@ -2589,7 +2589,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="40.64" y="2.54"/>
 </segment>
 </net>
-<net name="N$24" class="0">
+<net name="PWM" class="0">
 <segment>
 <pinref part="JP15" gate="G$1" pin="2"/>
 <junction x="119.38" y="33.02"/>
@@ -2607,7 +2607,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="121.92" y="33.02"/>
 </segment>
 </net>
-<net name="N$26" class="0">
+<net name="TX" class="0">
 <segment>
 <pinref part="JP13" gate="G$1" pin="1"/>
 <wire x1="99.06" y1="17.78" x2="83.82" y2="17.78" width="0.1524" layer="91"/>
@@ -2622,7 +2622,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="104.14" y="17.78"/>
 </segment>
 </net>
-<net name="N$29" class="0">
+<net name="RX" class="0">
 <segment>
 <pinref part="JP14" gate="G$1" pin="1"/>
 <wire x1="116.84" y1="17.78" x2="111.76" y2="17.78" width="0.1524" layer="91"/>
@@ -2641,7 +2641,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="121.92" y="17.78"/>
 </segment>
 </net>
-<net name="N$32" class="0">
+<net name="SDA" class="0">
 <segment>
 <pinref part="JP11" gate="G$1" pin="1"/>
 <wire x1="99.06" y1="2.54" x2="88.9" y2="2.54" width="0.1524" layer="91"/>
@@ -2658,7 +2658,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="104.14" y="2.54"/>
 </segment>
 </net>
-<net name="N$35" class="0">
+<net name="SCL" class="0">
 <segment>
 <pinref part="JP12" gate="G$1" pin="1"/>
 <wire x1="116.84" y1="2.54" x2="109.22" y2="2.54" width="0.1524" layer="91"/>
@@ -2677,7 +2677,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="121.92" y="2.54"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="+3.3V" class="0">
 <segment>
 <pinref part="JP7" gate="G$1" pin="1"/>
 <wire x1="17.78" y1="-12.7" x2="10.16" y2="-12.7" width="0.1524" layer="91"/>
@@ -3039,7 +3039,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="17.78" y="116.84"/>
 </segment>
 </net>
-<net name="N$43" class="0">
+<net name="RST" class="0">
 <segment>
 <pinref part="JP2" gate="G$1" pin="1"/>
 <pinref part="JP2" gate="G$1" pin="2"/>
@@ -3056,7 +3056,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="40.64" y="33.02"/>
 </segment>
 </net>
-<net name="N$48" class="0">
+<net name="SCK" class="0">
 <segment>
 <pinref part="JP4" gate="G$1" pin="1"/>
 <pinref part="JP4" gate="G$1" pin="2"/>
@@ -3071,7 +3071,7 @@ Source: &lt;br&gt;&lt;a href="http://www.mikroe.com/downloads/get/1737/mikrobus_
 <junction x="40.64" y="17.78"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="+5V" class="0">
 <segment>
 <pinref part="MB1" gate="G$1" pin="+5V"/>
 <junction x="83.82" y="10.16"/>
