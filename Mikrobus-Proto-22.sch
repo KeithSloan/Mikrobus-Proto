@@ -2961,7 +2961,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="17.78" y="-12.7"/>
 </segment>
 </net>
-<net name="N$9" class="0">
+<net name="L10" class="0">
 <segment>
 <pinref part="U$4" gate="G$1" pin="P$1"/>
 <pinref part="U$4" gate="G$1" pin="P$4"/>
@@ -2976,7 +2976,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="-30.48" y="96.52"/>
 </segment>
 </net>
-<net name="N$12" class="0">
+<net name="L7" class="0">
 <segment>
 <pinref part="U$7" gate="G$1" pin="P$1"/>
 <pinref part="U$7" gate="G$1" pin="P$4"/>
@@ -2991,7 +2991,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="10.16" y="96.52"/>
 </segment>
 </net>
-<net name="N$16" class="0">
+<net name="L8" class="0">
 <segment>
 <pinref part="U$8" gate="G$1" pin="P$1"/>
 <pinref part="U$8" gate="G$1" pin="P$4"/>
@@ -3006,7 +3006,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="22.86" y="96.52"/>
 </segment>
 </net>
-<net name="N$17" class="0">
+<net name="L6" class="0">
 <segment>
 <pinref part="U$9" gate="G$1" pin="P$1"/>
 <pinref part="U$9" gate="G$1" pin="P$4"/>
@@ -3021,7 +3021,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="35.56" y="104.14"/>
 </segment>
 </net>
-<net name="N$22" class="0">
+<net name="L11" class="0">
 <segment>
 <pinref part="U$5" gate="G$1" pin="P$1"/>
 <pinref part="U$5" gate="G$1" pin="P$4"/>
@@ -3036,7 +3036,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="-17.78" y="104.14"/>
 </segment>
 </net>
-<net name="N$25" class="0">
+<net name="L9" class="0">
 <segment>
 <pinref part="U$6" gate="G$1" pin="P$1"/>
 <pinref part="U$6" gate="G$1" pin="P$4"/>
@@ -3051,7 +3051,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="-5.08" y="96.52"/>
 </segment>
 </net>
-<net name="N$44" class="0">
+<net name="L4" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="P$1"/>
 <pinref part="U$1" gate="G$1" pin="P$4"/>
@@ -3066,7 +3066,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="-22.86" y="116.84"/>
 </segment>
 </net>
-<net name="N$45" class="0">
+<net name="L5" class="0">
 <segment>
 <pinref part="U$2" gate="G$1" pin="P$1"/>
 <pinref part="U$2" gate="G$1" pin="P$4"/>
@@ -3165,7 +3165,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="121.92" y="-12.7"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="L3" class="0">
 <segment>
 <pinref part="U$3" gate="G$1" pin="P$1"/>
 <pinref part="U$3" gate="G$1" pin="P$2"/>
@@ -3180,7 +3180,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="-27.94" y="73.66"/>
 </segment>
 </net>
-<net name="N$6" class="0">
+<net name="L2" class="0">
 <segment>
 <pinref part="U$10" gate="G$1" pin="P$1"/>
 <pinref part="U$10" gate="G$1" pin="P$2"/>
@@ -3195,7 +3195,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="-12.7" y="73.66"/>
 </segment>
 </net>
-<net name="N$7" class="0">
+<net name="L1" class="0">
 <segment>
 <pinref part="U$11" gate="G$1" pin="P$1"/>
 <pinref part="U$11" gate="G$1" pin="P$2"/>
@@ -3210,7 +3210,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="2.54" y="73.66"/>
 </segment>
 </net>
-<net name="N$8" class="0">
+<net name="R6" class="0">
 <segment>
 <pinref part="JP22" gate="G$1" pin="5"/>
 <pinref part="JP22" gate="G$1" pin="4"/>
@@ -3228,7 +3228,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="55.88" y="93.98"/>
 </segment>
 </net>
-<net name="N$10" class="0">
+<net name="R5" class="0">
 <segment>
 <pinref part="JP23" gate="G$1" pin="5"/>
 <pinref part="JP23" gate="G$1" pin="4"/>
@@ -3246,7 +3246,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="73.66" y="93.98"/>
 </segment>
 </net>
-<net name="N$14" class="0">
+<net name="R4" class="0">
 <segment>
 <pinref part="JP24" gate="G$1" pin="5"/>
 <pinref part="JP24" gate="G$1" pin="4"/>
@@ -3264,7 +3264,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="93.98" y="93.98"/>
 </segment>
 </net>
-<net name="N$18" class="0">
+<net name="R1" class="0">
 <segment>
 <pinref part="JP27" gate="G$1" pin="5"/>
 <pinref part="JP27" gate="G$1" pin="4"/>
@@ -3282,7 +3282,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="93.98" y="73.66"/>
 </segment>
 </net>
-<net name="N$19" class="0">
+<net name="R3" class="0">
 <segment>
 <pinref part="JP25" gate="G$1" pin="5"/>
 <pinref part="JP25" gate="G$1" pin="4"/>
@@ -3300,7 +3300,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="111.76" y="104.14"/>
 </segment>
 </net>
-<net name="N$20" class="0">
+<net name="R2" class="0">
 <segment>
 <pinref part="JP26" gate="G$1" pin="5"/>
 <pinref part="JP26" gate="G$1" pin="4"/>
@@ -3318,7 +3318,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="129.54" y="104.14"/>
 </segment>
 </net>
-<net name="N$21" class="0">
+<net name="R7" class="0">
 <segment>
 <pinref part="JP21" gate="G$1" pin="5"/>
 <pinref part="JP21" gate="G$1" pin="4"/>
@@ -3336,7 +3336,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="127" y="124.46"/>
 </segment>
 </net>
-<net name="N$23" class="0">
+<net name="R8" class="0">
 <segment>
 <pinref part="JP20" gate="G$1" pin="5"/>
 <pinref part="JP20" gate="G$1" pin="4"/>
@@ -3354,7 +3354,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="111.76" y="124.46"/>
 </segment>
 </net>
-<net name="N$27" class="0">
+<net name="R9" class="0">
 <segment>
 <pinref part="JP19" gate="G$1" pin="5"/>
 <pinref part="JP19" gate="G$1" pin="4"/>
@@ -3372,7 +3372,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="93.98" y="114.3"/>
 </segment>
 </net>
-<net name="N$28" class="0">
+<net name="R10" class="0">
 <segment>
 <pinref part="JP18" gate="G$1" pin="5"/>
 <pinref part="JP18" gate="G$1" pin="4"/>
@@ -3390,7 +3390,7 @@ Standard 5-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="73.66" y="124.46"/>
 </segment>
 </net>
-<net name="N$30" class="0">
+<net name="R11" class="0">
 <segment>
 <pinref part="JP17" gate="G$1" pin="5"/>
 <pinref part="JP17" gate="G$1" pin="4"/>
